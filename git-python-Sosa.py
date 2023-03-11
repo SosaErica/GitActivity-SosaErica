@@ -1,3 +1,7 @@
 print ("Erica Elorde Sosa")
 print ("Bacongbacong Gasan Marinduque")
 print ("September 9 2002")
+print ("College of Information and Computing Sciences")
+print ("Bachelor of Science in Informtaion Technology")
+print ("2nd year")
+print ("Section A")
